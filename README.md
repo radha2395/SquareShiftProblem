@@ -1,5 +1,5 @@
 # SquareShiftProblem
-In the given problem statement, the array dimensions are reversed. This solution takes in the mentioned output, corrected the dimensions and gave the desired output.
+In the given problem statement, the array dimensions are reversed. This solution takes in the mentioned input(row is column and column is row), corrected the dimensions and gave the desired output.
 Assumptions made :
 2D integer array represents the seating position
 1. -1 value means seat doesn't exist 
